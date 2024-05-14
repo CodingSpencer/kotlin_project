@@ -1,33 +1,28 @@
 # kotlin_project
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+My goal was to use Kotlin to program the needed code for a quiz app that would test a user's knowledge on Captain America.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+Using classes, I attempted to program a system that would be able to randomly select a question from a list of pre-made options, display that option to the user, and create a score board to keep track of how many questions the user has gotten correct.
 
-{Describe your purpose for writing this software.}
+Writing this software will hopefully allow this project to continue into this next sprint. With the background code already established I can hopefully discover how to connect it to an android system program.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kMJUftfRJ_E)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Intellij
+Visual Studio Code
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [ChatGPT](https://openai.com/index/chatgpt/?ref=blog-what-is-chat-gpt-understanding&params=ref-blog-what-is-chat-gpt-understanding)
+- [Kotlin Tutorial](https://www.programiz.com/kotlin-programming/operators)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Connecting the code to Android Studio Project
+- Programming the display of the app
+- Create a user, menu, and any other needed classes
